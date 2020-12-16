@@ -1,0 +1,7 @@
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\obj\Debug\gta.csprojResolveAssemblyReference.cache
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\bin\Debug\gta.dll
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\bin\Debug\gta.pdb
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\bin\Debug\ScriptHookVDotNet2.dll
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\bin\Debug\ScriptHookVDotNet2.xml
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\obj\Debug\gta.dll
+c:\users\kyler\documents\visual studio 2015\Projects\gta\gta\obj\Debug\gta.pdb
